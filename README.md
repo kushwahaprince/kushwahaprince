@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Prince Kushwaha  
 
-<!--
-**kushwahaprince/kushwahaprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (MERN)  
+🎓 TYBSc IT Student  
+🚀 Passionate about Web Development  
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- HTML, CSS, JavaScript
+- React.js, Node.js, MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- ✅ Online Voting System
+- ✅ Money Management Website
+- ✅ Resume Builder
+
+## 📫 Contact Me
+- GitHub: https://github.com/princekushwaha
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+

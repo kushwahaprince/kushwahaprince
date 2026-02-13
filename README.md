@@ -1,6 +1,6 @@
 <!-- Neon Cyber Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=160&section=header&text=Prince%20Nachanekar&fontSize=42&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=160&section=header&text=Prince%20Kushwaha&fontSize=42&fontColor=000000&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -58,47 +58,20 @@
 
 ## 🏗️ Featured Projects
 
-### 🔥 TaskTribe · Full Stack Platform
 
-> A collaborative task marketplace for students & professionals
-
-- 🔐 JWT-based authentication & role-based access
-- 🧑‍🤝‍🧑 Task posting, proposals & assignment workflow
-- 📂 File uploads with Cloudinary
-- ⚡ Smooth, real-time-like UX
-- 🎨 Dark, modern UI with micro-interactions
-
-**Tech:** React, Node.js, Express, MongoDB, JWT, Tailwind CSS
-
----
-
-### 🤖 ViseVerse · AI Text Summarizer
-
-> AI-powered web app that extracts text using OCR and generates smart summaries
-
-- 📸 OCR-based extraction using **Tesseract.js**
-- 🧠 Intelligent summarization via **Google Gemini API**
-- 📄 Supports pasted text & image-based content
-- ⚡ Fast processing with clean, minimal interface
-- 🔒 Secure API handling & scalable backend
-- ✨ Subtle animations for a polished UX
-
-**Tech:** React, Node.js, Express, Tesseract.js, Gemini API, REST APIs, Framer Motion
-
----
 
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://devsushant03.netlify.app" target="_blank">
+  <a href="https://prince-dev1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF88" />
   </a>
-  <a href="https://www.linkedin.com/in/sushant-nachanekar" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
   </a>
 
-  <a href="https://www.instagram.com/mr__sushant__030" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF5CBA" />
   </a>
 </p>

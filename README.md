@@ -1,50 +1,110 @@
-## 📈 GitHub Streak Stats
+<!-- Neon Cyber Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=160&section=header&text=Prince%20Nachanekar&fontSize=42&fontColor=000000&animation=fadeIn" />
+</p>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSushant03&theme=tokyonight&hide_border=true)
-  
-</div>
+<h3 align="center">
+  💻 Full Stack Developer (MERN) • Building TaskTribe & ViseVerse
+</h3>
 
-## 📊 Activity Graph
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack%20%7C%20TypeScript%20%7C%20Next.js;Building%20real-world%20products%2C%20not%20just%20demos;Always%20learning%20and%20shipping%20fast" />
+</p>
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSushant03&theme=tokyo-night&hide_border=true&area=true)
-  
-</div>
+---
 
-## 🔥 Contribution Stats
+## ⚡ About Me
 
-<div align="center">
-  
-  ![Contributions](https://github-contributor-stats.vercel.app/api?username=DevSushant03&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-  
-</div>
+- 🎓 Final-year **BSc IT student**
+- 💻 Passionate **Full Stack Developer (MERN)**
+- 🔨 Currently shipping **production-grade products**
+- 🌱 Learning **TypeScript, Next.js & System Design**
+- 🎯 Vision: Become a **high-impact software engineer**
 
-## ⏰ Productive Time & Commit Stats
+---
 
-<div align="center">
-  
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSushant03&theme=tokyonight)
-  
-  ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSushant03&theme=tokyonight)
-  
-</div>
+## 🧠 Tech Stack
 
-## 📊 GitHub Profile Summary
+### 💻 Frontend
 
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevSushant03&theme=tokyonight" alt="Profile Summary"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSushant03&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSushant03&theme=tokyonight" alt="Most Commit Language"/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevSushant03&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DevSushant03&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-  
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF5C5C)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFEA)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFDD)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00FF88)
 
-<!--Different Themes Available:
-Replace tokyonight with: radical, merko, gruvbox, dark, radical, dracula, monokai, vue, synthwave, highcontrast, github_dark, nord, nightowl, gotham -->
+### 🧩 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF88)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF88)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=00FF88)
+
+### 🗄️ Database & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF88)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF88)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary&logoColor=00FF88)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF5C5C)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FFEA)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🔥 TaskTribe · Full Stack Platform
+
+> A collaborative task marketplace for students & professionals
+
+- 🔐 JWT-based authentication & role-based access
+- 🧑‍🤝‍🧑 Task posting, proposals & assignment workflow
+- 📂 File uploads with Cloudinary
+- ⚡ Smooth, real-time-like UX
+- 🎨 Dark, modern UI with micro-interactions
+
+**Tech:** React, Node.js, Express, MongoDB, JWT, Tailwind CSS
+
+---
+
+### 🤖 ViseVerse · AI Text Summarizer
+
+> AI-powered web app that extracts text using OCR and generates smart summaries
+
+- 📸 OCR-based extraction using **Tesseract.js**
+- 🧠 Intelligent summarization via **Google Gemini API**
+- 📄 Supports pasted text & image-based content
+- ⚡ Fast processing with clean, minimal interface
+- 🔒 Secure API handling & scalable backend
+- ✨ Subtle animations for a polished UX
+
+**Tech:** React, Node.js, Express, Tesseract.js, Gemini API, REST APIs, Framer Motion
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://devsushant03.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF88" />
+  </a>
+  <a href="https://www.linkedin.com/in/sushant-nachanekar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF88" />
+  </a>
+
+  <a href="https://www.instagram.com/mr__sushant__030" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF5CBA" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer&text=Code%20with%20purpose%20%E2%80%A2%20Build%20with%20impact&fontSize=20&fontColor=000000" />
+</p>
